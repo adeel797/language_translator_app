@@ -75,8 +75,10 @@ This app is built using **Flutter** with the **Stacked Architecture** for a robu
 
 ## 📸 App Images
 
-* Light Mode
-* Dark Mode
+| Light Mode | Dark Mode |
+| ---------- | --------- |
+| <img src="https://github.com/user-attachments/assets/81ab83df-5743-485e-9827-c3eee1dfd548" width="200" height="400" /> | <img src="https://github.com/user-attachments/assets/d424ec8a-338e-46d6-a5de-b732c65b3e90" width="200" height="400" /> |
+| <img src="https://github.com/user-attachments/assets/e5d1fd6e-a359-484f-8b39-9f071a04d78a" width="200" height="400" /> | <img src="https://github.com/user-attachments/assets/2df014e3-9d96-4cbe-a96d-8a1bbb56a48f" width="200" height="400" /> |
 
 ---
 
@@ -84,7 +86,7 @@ This app is built using **Flutter** with the **Stacked Architecture** for a robu
 
 The Language Translator App is **open-source** and ready for you to explore, modify, or integrate into your own projects. Perfect for learning Flutter, Hive, or translation API integration.
 
-👉 Download for Android 📱🌍
+👉 **[Download for Android](https://drive.google.com/file/d/13KHzsfMF8Bonlh45r3Se0SrvJmnYVMbt/view?usp=drive_link)** 📱🌍
 
 ---
 
