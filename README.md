@@ -77,8 +77,8 @@ This app is built using **Flutter** with the **Stacked Architecture** for a robu
 
 | Light Mode | Dark Mode |
 | ---------- | --------- |
-| <img src="https://github.com/user-attachments/assets/81ab83df-5743-485e-9827-c3eee1dfd548" width="200" height="400" /> | <img src="https://github.com/user-attachments/assets/d424ec8a-338e-46d6-a5de-b732c65b3e90" width="200" height="400" /> |
-| <img src="https://github.com/user-attachments/assets/e5d1fd6e-a359-484f-8b39-9f071a04d78a" width="200" height="400" /> | <img src="https://github.com/user-attachments/assets/2df014e3-9d96-4cbe-a96d-8a1bbb56a48f" width="200" height="400" /> |
+| <img src="https://github.com/user-attachments/assets/1116217e-9966-4c6e-89ee-95ff18e9fd5a" width="200" height="400" /> | <img src="https://github.com/user-attachments/assets/e673c54f-e2b1-4ce5-8371-7e938ca67983" width="200" height="400" /> |
+| <img src="https://github.com/user-attachments/assets/f61d3ab4-de95-42eb-87b7-c8a68ee6d236" width="200" height="400" /> | <img src="https://github.com/user-attachments/assets/23ba7007-ead3-46d5-806c-1574f7a14b12" width="200" height="400" /> |
 
 ---
 
@@ -86,7 +86,7 @@ This app is built using **Flutter** with the **Stacked Architecture** for a robu
 
 The Language Translator App is **open-source** and ready for you to explore, modify, or integrate into your own projects. Perfect for learning Flutter, Hive, or translation API integration.
 
-👉 **[Download for Android](https://drive.google.com/file/d/13KHzsfMF8Bonlh45r3Se0SrvJmnYVMbt/view?usp=drive_link)** 📱🌍
+👉 **[Download for Android](https://drive.google.com/file/d/1_ZxdK8mG4AEVGodFxgB4JnPsA7QZNB1p/view?usp=drive_link)** 📱🌍
 
 ---
 
